@@ -22,7 +22,7 @@ namespace QUANLYCATP
         }
 
         //Khai bao chuoi ket noi CSDL
-        private string strConnect = @"Data Source=.;Initial Catalog=QLTV;Integrated Security=True";
+        private string strConnect = @"Data Source=.;Initial Catalog=CBCS_CATP;Integrated Security=True";
         //Kết nối
         public void Connect()
         {
